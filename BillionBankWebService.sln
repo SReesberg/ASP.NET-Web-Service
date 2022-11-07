@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillionBankWebService", "BillionBankWebService\BillionBankWebService.csproj", "{2117D3B7-A584-4149-BECF-914B8A3A4389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2117D3B7-A584-4149-BECF-914B8A3A4389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2117D3B7-A584-4149-BECF-914B8A3A4389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2117D3B7-A584-4149-BECF-914B8A3A4389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2117D3B7-A584-4149-BECF-914B8A3A4389}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1011C78B-4EA3-41C4-9294-ED8465877EBF}
+	EndGlobalSection
+EndGlobal
